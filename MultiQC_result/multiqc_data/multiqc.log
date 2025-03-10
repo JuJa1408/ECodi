@@ -1,0 +1,2 @@
+[2025-03-04 01:02:55,378] multiqc.core.file_search                           [INFO   ]  Search path: /cephyr/NOBACKUP/groups/bbt045_2025/groups/group_Ecodi/FastQC_result
+[2025-03-04 01:02:59,099] multiqc.modules.fastqc.fastqc                      [INFO   ]  Found 30 reports
